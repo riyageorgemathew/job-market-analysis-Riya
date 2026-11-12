@@ -37,3 +37,6 @@ expectations and predictions for the future.
 
 6. Created a `.gitignore` file and added `.env` so the credentials will not be shared when committed to Git.
 
+7. Made file `adzuna_tesring.py` to test getting active listing from Adzuna
+
+8. Made `api.py` to use the api for the project
