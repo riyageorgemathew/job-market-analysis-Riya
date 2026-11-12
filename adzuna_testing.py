@@ -14,7 +14,7 @@ params = {
     "app_id": app_id,
     "app_key": app_key,
     "results_per_page": 50,
-    "what": "software engineer",
+    "what": "software",
     "where": "Gainesville",
     "content-type": "application/json"
     # asks info in json format
