@@ -1,0 +1,11 @@
+.env
+#protects your API credentials.
+
+.venv/
+# excludes your virtual environment.
+
+__pycache__/
+# excludes Python cache folders.
+
+*.pyc
+# excludes compiled Python files.
